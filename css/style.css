@@ -64,6 +64,9 @@ header {
   /*background-attachment: fixed;*/
   /*background-size: 100% 100%;*/
 }
+div.eventHandler{
+  background-color: yellow;
+}
 ul#menu {
 background: #40475A none repeat scroll 0 0;
 padding: 6px;
