@@ -1,0 +1,1 @@
+codigo.log("Invocando codigo JS desde HTML");
